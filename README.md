@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there! I'm Karan Kumar
 
-<!--
-**Karan757/Karan757** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer | Backend Developer | Cloud Enthusiast**
 
-Here are some ideas to get you started:
+I build scalable, reliable infrastructure and automate everything possible — from deployments to monitoring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Tech Toolbox
+
+- **Languages**: Python, Bash, Java, C++, JavaScript, PL/SQL
+- **DevOps Tools**: Docker, Kubernetes, Terraform, GitLab CI/CD, Jenkins, Rundeck, Chef, Vault, Sentry, MinIO, RabbitMQ
+- **Cloud Providers**: Azure, AWS, GCP, OpenStack
+- **Monitoring & Observability**: Prometheus, Grafana, Loki
+- **Databases**: PostgreSQL, MySQL
+- **Frameworks**: FastAPI, Flask, ReactJS
+
+---
+
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan757&show_icons=true&theme=monokai)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan757&layout=donut&theme=monokai)
+
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/karankumar1998)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Karan757)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:karan.kk7575@gmail.com)
+
+---
+
+> “Automation is the future — I just help build it.”
