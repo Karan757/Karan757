@@ -20,8 +20,8 @@ I build scalable, reliable infrastructure and automate everything possible — f
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan757&show_icons=true&theme=monokai)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan757&layout=donut&theme=monokai)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan757&count_private=true&include_all_commits=true&show_icons=true&theme=monokai&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan757&layout=donut&theme=monokai&hide_border=true)
 
 
 ---
